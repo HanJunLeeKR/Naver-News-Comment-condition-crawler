@@ -7,3 +7,4 @@ I used the above code in Python version 3.11.8. Please contact us if there are a
 Ref. Young-Gil, Chae & HanJun, Lee (2026). Historical Distortion and Hate Speech Regarding the May 18 Democratic Uprising : A Focus on the Framing and Thematic Analysis of Comments on Portal News Sites. Korean Journal of Communication & Information, 138, 194-239. URL: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003368454
 
 
+Test Version Python Window == 3.11.11, Mac=3.13.15
