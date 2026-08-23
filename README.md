@@ -1,4 +1,5 @@
 -updated-2026/08/23: A feature has been added that allows you to resume from where you left off 
+
 -updated-2026/08/21: Instead of collecting UserIdNo, which Naver API no longer provides, we collect the Mark number to distinguish comment authors.
 
 Collect Naver news articles and comments. The feature is to collect comment status together. Comment statuses include “author deleted,” “clean bot,” “deleted for not complying with the operating policy,” and “exposed” with no action taken(Chae & Lee, 2026). If a comment has been handled, it tracks the time the comment was still active.
