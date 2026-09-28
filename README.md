@@ -1,3 +1,5 @@
+-updated- 2026/09/29: Debugging a crash during ChromeDriver installation while running two keywords (e.g. 5.18, 5·18) simultaneously (in parallel)
+
 -updated-2026/08/23: A feature has been added that allows you to resume from where you left off 
 
 -updated-2026/08/21: Instead of collecting UserIdNo, which Naver API no longer provides, we collect the Mark number to distinguish comment authors.
